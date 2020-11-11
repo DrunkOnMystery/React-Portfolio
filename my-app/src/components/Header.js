@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
     return (
@@ -7,13 +8,13 @@ function Header() {
             <ul class="nav justify-content-end">
 
                 <li class="nav-item">
-                    <a class="nav-link inactive" href="index.html"> <strong>About Me</strong></a>
+                    <Link to="/" class="nav-link inactive" href="index.html"> <strong>About Me</strong></Link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="portfolio.html"><strong>Portfolio</strong></a>
+                    <Link to="/portfolio" class="nav-link" href="portfolio.html"><strong>Portfolio</strong></Link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="contact.html" tabindex="-1" aria-disabled="true"><strong>Contact</strong></a>
+                    <Link to="/contact" class="nav-link" href="contact.html" tabindex="-1" aria-disabled="true"><strong>Contact</strong></Link>
                 </li>
             </ul>
         </div>

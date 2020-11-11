@@ -1,7 +1,7 @@
 import React from "react";
 import '../styles/Main.css';
 
-function Main() {
+function Body() {
     return (
         <div className="Main">
             <section class="container">
@@ -61,4 +61,4 @@ function Main() {
     )
 }
 
-export default Main;
+export default Body;
