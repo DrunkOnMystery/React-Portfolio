@@ -7,7 +7,7 @@ function BodyIndex() {
                 <div class="row">
                     <div class="col">
                         <img id="me-and-will" class="img-fluid" alt="Me and my oldest son Will"
-                            src="../assets/Ben_and_Will.jpg" />
+                            src="../assets/Ben_and_Will.jpg"/>
 
                         <p class="about-me-text"><strong>Benjamin Brumby was born in Atlanta, GA in April of 1985, but has
                         spent
@@ -52,7 +52,7 @@ function BodyIndex() {
             <div class="row">
                 <div class="col" id="Ben_and_Mandy_Div">
                     <img id="me-and-Mandy" class="img-fluid" alt="Me and my wife"
-                        src="assets/Ben_and_Mandy.jpg" />
+                        src="../assets/Ben_and_Mandy.jpg" />
                 </div>
             </div>
         </div>
