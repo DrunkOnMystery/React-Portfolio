@@ -30,7 +30,7 @@ function BodyPortfolio() {
                         </div>
                     </div>
                     <div class="card">
-                        <a target="_blank" rel="noreferrer"  href="https://drunkonmystery.github.io/Day-Planner/"><img src="assets/DayPlanner.PNG"
+                        <a target="_blank" rel="noreferrer"  href="https://drunkonmystery.github.io/Day-Planner/"><img src="../assets/DayPlanner.PNG"
                             class="card-img-top" alt="DayPlanner" /></a>
                         <div class="card-body">
                             <h5 class="card-title">Day Planner</h5>
@@ -42,7 +42,7 @@ function BodyPortfolio() {
                     </div>
                     <div class="card">
                         <a target="_blank" rel="noreferrer"  href="https://drunkonmystery.github.io/Weather-Dashboard/?"><img
-                            src="assets/WeatherDashboard.PNG" class="card-img-top" alt="Weather Dashboard" /></a>
+                            src="../assets/WeatherDashboard.PNG" class="card-img-top" alt="Weather Dashboard" /></a>
                         <div class="card-body">
                             <h5 class="card-title">Weather Dashboard</h5>
                             <p class="card-text">An interactive website that provides weather forecasts by city name
@@ -61,7 +61,7 @@ function BodyPortfolio() {
                     </div>
                     <div class="card">
                         <a target="_blank" rel="noreferrer"  href="https://drive.google.com/file/d/14bRtn-lsl4itscxhgUtw_zJ4Lc5AFiZG/view"><img
-                            src="assets/Employee_Tracker.PNG" class="card-img-top" alt="Employee Tracker" /></a>
+                            src="../assets/Employee_Tracker.PNG" class="card-img-top" alt="Employee Tracker" /></a>
                         <div class="card-body">
                             <h5 class="card-title">MySQL Employee Tracker</h5>
                             <p class="card-text">This project is a MySQL database program designed to allow a manager to edit their employee database through the terminal console.<a target="_blank" rel="noreferrer" 
