@@ -1,5 +1,5 @@
 import React from "react";
-import BodyPortfolio from "./components/BodyPortfolio";
+import BodyPortfolio from "../components/BodyPortfolio";
 
 function Portfolio() {
     return(

@@ -1,5 +1,5 @@
 import React from "react";
-import BodyIndex from "./components/BodyIndex";
+import BodyIndex from "../components/BodyIndex";
 
 function Main() {
     return(

@@ -1,5 +1,5 @@
 import React from "react";
-import BodyContact from "./components/BodyContact";
+import BodyContact from "../components/BodyContact";
 
 function Contact() {
     return(
