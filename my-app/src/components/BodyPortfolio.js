@@ -1,6 +1,6 @@
 import React from "react";
 // import Project from "../../models/Portfolio";
-import '../styles/BodyPortfolio.css';
+
 
 function BodyPortfolio() {
     return (

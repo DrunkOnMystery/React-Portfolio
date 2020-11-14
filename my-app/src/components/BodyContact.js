@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/BodyContact.css';
+
 
 function BodyContact() {
     return (
