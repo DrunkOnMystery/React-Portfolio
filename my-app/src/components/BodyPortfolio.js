@@ -1,6 +1,6 @@
 import React from "react";
 import Project from "./Project";
-
+import projects from "../../projects.json"
 
 
 function BodyPortfolio() {
@@ -20,9 +20,7 @@ function BodyPortfolio() {
                     ))}
                 </div>
             </main>
-
         </div>
-
     )
 }
 
