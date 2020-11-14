@@ -9,6 +9,7 @@ const Routes = () => {
     return (
         <Switch> 
             <Route exact path = "/" component ={Main}></Route>
+            <Route exact path = "/React-Portfolio" component ={Main}></Route>
             <Route exact path = "/portfolio" component = {Portfolio}></Route>
             <Route exact path = "/contact" component = {Contact}></Route>
         </Switch>
