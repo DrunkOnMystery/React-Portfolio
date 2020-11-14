@@ -8,7 +8,7 @@ function Header() {
             <ul class="nav justify-content-end">
 
                 <li class="nav-item">
-                    <Link to="/" class="nav-link inactive" href="index.html"> <strong>About Me</strong></Link>
+                    <Link to="/React-Portfolio/" class="nav-link inactive" href="index.html"> <strong>About Me</strong></Link>
                 </li>
                 <li class="nav-item">
                     <Link to="/portfolio" class="nav-link" href="portfolio.html"><strong>Portfolio</strong></Link>
