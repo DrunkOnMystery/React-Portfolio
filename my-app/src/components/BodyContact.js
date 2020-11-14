@@ -23,8 +23,8 @@ function BodyContact() {
             </div>
             <div>
                 <h4><a href="mailto: bbrumby00@gmail.com">Email</a></h4>
-                <h4><a target="_blank" href="https://www.linkedin.com/in/benjamin-brumby-98183546/">LinkedIn</a></h4>
-                <h4><a target="_blank" href="https://github.com/DrunkOnMystery">Github</a> </h4>
+                <h4><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/benjamin-brumby-98183546/">LinkedIn</a></h4>
+                <h4><a target="_blank" rel="noreferrer" href="https://github.com/DrunkOnMystery">Github</a> </h4>
             </div>
         </div>
     )
