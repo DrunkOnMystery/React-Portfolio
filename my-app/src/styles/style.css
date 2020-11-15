@@ -14,8 +14,8 @@
 /* Color and styling for the main header */
 #header {
     background-color: darkslategrey;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     color: white;
     min-width: 100%;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -84,6 +84,7 @@ h1 {
 
 #contact-form {
     margin-top: 20px;
+    padding-top: 20px;
 }
 
 input {
