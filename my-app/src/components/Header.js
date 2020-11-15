@@ -4,7 +4,7 @@ import '../styles/style.css';
 
 function Header() {
     return (
-        <div className="Header">
+        <div className="Header" id="header">
             <h1>Benjamin A. Brumby</h1>
             <ul class="nav justify-content-end">
 
