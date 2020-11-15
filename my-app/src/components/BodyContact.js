@@ -4,7 +4,7 @@ import '../styles/style.css';
 
 function BodyContact() {
     return (
-        <div className="BodyContact">
+        <div className="BodyContact" class="main">
             <div>
 
                 <form id="contact-form" class="form">

@@ -3,7 +3,7 @@ import '../styles/style.css';
 
 function BodyIndex() {
     return (
-        <div className="Main">
+        <div className="Main"  class="main">
             <section class="container">
                 <div class="row">
                     <div class="col">
