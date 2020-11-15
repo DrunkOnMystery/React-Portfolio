@@ -4,7 +4,7 @@
         margin-right: 20px;
     }
 /* Set background image */
-.main {
+#index-main #contact-main #portfolio-main {
     background: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/198071_503524242887_1051_n.jpg?_nc_cat=100&_nc_sid=cdbe9c&_nc_ohc=WlFmHPkEoqMAX9RgDnS&_nc_ht=scontent-iad3-1.xx&oh=ea416c3de76d108991957872d9a9b56c&oe=5F7BD457);
     background-size: cover;
     background-repeat: no-repeat;

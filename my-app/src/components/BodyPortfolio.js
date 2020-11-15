@@ -6,7 +6,7 @@ import '../styles/style.css';
 
 function BodyPortfolio() {
     return (
-        <div className="BodyPortfolio"  class="main">
+        <div className="BodyPortfolio"  id="portfolio-main">
             <main class="card-container">
                 <div class="row">
                     {projects.map((item, i) => (
