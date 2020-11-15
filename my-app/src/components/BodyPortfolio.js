@@ -1,7 +1,7 @@
 import React from "react";
 import Project from "./Project";
 import projects from "./../projects.json"
-import './styles/style.css';
+import '../styles/style.css';
 
 
 function BodyPortfolio() {
