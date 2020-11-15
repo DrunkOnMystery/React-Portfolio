@@ -1,5 +1,6 @@
 import React from "react";
 import BodyContact from "../components/BodyContact";
+import './styles/style.css';
 
 function Contact() {
     return(

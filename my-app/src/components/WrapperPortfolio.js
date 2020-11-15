@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/WrapperPortfolio.css';
+import './styles/style.css';
 import Header from "./Header";
 import BodyPortfolio from "./BodyPortfolio";
 import Footer from "./Footer";

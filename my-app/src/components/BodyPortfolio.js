@@ -1,6 +1,7 @@
 import React from "react";
 import Project from "./Project";
-import projects from "../../projects.json"
+import projects from "./../projects.json"
+import './styles/style.css';
 
 
 function BodyPortfolio() {

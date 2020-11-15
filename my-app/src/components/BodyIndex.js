@@ -1,4 +1,5 @@
 import React from "react";
+import './styles/style.css';
 
 function BodyIndex() {
     return (
@@ -7,7 +8,7 @@ function BodyIndex() {
                 <div class="row">
                     <div class="col">
                         <img id="me-and-will" class="img-fluid" alt="Me and my oldest son Will"
-                            src="../assets/Ben_and_Will.jpg"/>
+                            src="https://pbs.twimg.com/media/Em4GulPXUAAB4PJ?format=jpg&name=medium"/>
 
                         <p class="about-me-text"><strong>Benjamin Brumby was born in Atlanta, GA in April of 1985, but has
                         spent
@@ -30,7 +31,7 @@ function BodyIndex() {
             <div class="row">
                 <div class="col">
                     <img id="me-and-nate" class="img-fluid" alt="Me and my youngest son Nate"
-                        src="../assets/Ben_and_Nate.jpg" />
+                        src="https://pbs.twimg.com/media/Em4Guk9WEAIBgFS?format=jpg&name=large" />
                     <p class="about-me-text"><strong>After that job ended, Ben moved back to his hometown of Orlando, and
                     took a job
                     working for a company that planned and managed corporate events and trade shows. For more than 6
@@ -52,7 +53,7 @@ function BodyIndex() {
             <div class="row">
                 <div class="col" id="Ben_and_Mandy_Div">
                     <img id="me-and-Mandy" class="img-fluid" alt="Me and my wife"
-                        src="../assets/Ben_and_Mandy.jpg" />
+                        src="https://pbs.twimg.com/media/Em4GukzXYAcHxHf?format=jpg&name=medium" />
                 </div>
             </div>
         </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/WrapperContact.css';
+import './styles/style.css';
 import Header from "./Header";
 import BodyContact from "./BodyContact";
 import Footer from "./Footer";
