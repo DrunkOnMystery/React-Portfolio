@@ -6,6 +6,7 @@ function BodyContact() {
     return (
         <div className="BodyContact">
             <div>
+                <br></br>
                 <form id="contact-form">
                     <label id="name-label" for="name"><strong>Name:</strong></label>
                     <br></br>

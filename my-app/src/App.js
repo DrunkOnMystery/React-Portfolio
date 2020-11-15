@@ -7,11 +7,9 @@ import './styles/style.css';
 function App() {
   return (
     <div className="App">
-      <div class="app">
       <Header />
       <Routes />
       <Footer />
-      </div>
     </div>
   );
 }
