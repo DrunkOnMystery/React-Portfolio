@@ -3,7 +3,7 @@ import '../styles/style.css';
 
 function Footer() {
     return (
-        <div className="Footer">
+        <div className="Footer" id="footer">
         <div class="card-footer text-muted">
         Copyright Benjamin Brumby 2020<br></br>
         All Rights reserved.
