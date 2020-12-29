@@ -17,6 +17,7 @@ function BodyPortfolio() {
                             url={item.url}
                             github={item.github}
                             description={item.description}
+                            technologies={item.technologies}
                             />
                     ))}
                 </div>
