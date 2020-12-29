@@ -5,7 +5,7 @@
     }
 /* Set background image */
 #app {
-    background: url("https://scontent-mia3-1.xx.fbcdn.net/v/t1.0-9/198071_503524242887_1051_n.jpg?_nc_cat=100&ccb=2&_nc_sid=cdbe9c&_nc_ohc=yp1LAaRV0H0AX_sbpeL&_nc_ht=scontent-mia3-1.xx&oh=a26b1003d249768a2259c145bc1aea5d&oe=5FD6CBD7");
+    background: url("https://hosting.photobucket.com/images/i/DrunkOnMystery/Sunrise(1).jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -63,13 +63,13 @@ h1 {
 /* Styling for the picture of me with my son, Will */
 #me-and-will {
     margin-right: 10%;
-    max-width: 30%;
+    width: 30%;
     float: right;
     padding-left: 20px;
 }
 /* Styling for the picture of me with my son, Nate */
 #me-and-nate {
-    max-width: 30%;
+    width: 30%;
     float: left;
     padding-right: 20px;
     margin-left: 10%;
@@ -80,7 +80,7 @@ h1 {
 }
 
 #me-and-Mandy {
-    max-width: 40%;
+    width: 40%;
     float: right;
 }
 

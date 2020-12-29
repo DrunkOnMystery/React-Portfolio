@@ -23,7 +23,7 @@ function BodyContact() {
                 </form>
             </div>
             <div>
-                <h4><a href="mailto: bbrumby00@gmail.com">Email</a></h4>
+                <h4><a href="mailto: bbrumby00@gmail.com">Email me at bbrumby00@gmail.com</a></h4>
                 <h4><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/benjamin-brumby-98183546/">LinkedIn</a></h4>
                 <h4><a target="_blank" rel="noreferrer" href="https://github.com/DrunkOnMystery">Github</a> </h4>
             </div>
