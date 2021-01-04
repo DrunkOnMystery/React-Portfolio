@@ -21,7 +21,8 @@ function BodyPortfolio() {
                             />
                     ))}
                 </div>
-                <div class="row">
+            </main>
+            <div class="row">
                         <ul>Ben's programming skills include:
                             <li>HTML</li>
                             <li>CSS</li>
@@ -33,7 +34,6 @@ function BodyPortfolio() {
                             <li>MongoDB</li>
                         </ul>
                 </div>
-            </main>
         </div>
     )
 }
