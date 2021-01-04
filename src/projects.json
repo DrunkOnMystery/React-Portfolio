@@ -1,5 +1,13 @@
 [
     {
+        "title": "Pet Pals",
+        "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/PetPals.PNG",
+        "url": "https://calm-falls-93556.herokuapp.com/",
+        "github": "https://github.com/eschiavoni2/Project3",
+        "description": "A web app for pet owners to track and update information about their pets and their spending on those pets",
+        "technologies": "HTML, CSS, Javascript, ReactJS, MongoDB, Express, NodeJS"
+    },
+    {
         "title": "MovieDine",
         "image_src": "https://hosting.photobucket.com/images/i/DrunkOnMystery/MovieDine.PNG",
         "url": "https://tintin92.github.io/MovieDine/",
@@ -30,14 +38,6 @@
         "github": "https://github.com/DrunkOnMystery/Weather-Dashboard",
         "description": "An interactive website that provides weather forecasts by city name using APIs.",
         "technologies": "HTML, CSS, Javascript, Axios"
-    },
-    {
-        "title": "Automated ReadMe Generator",
-        "image_src": "https://pbs.twimg.com/media/EliEVSAWoAECa1I?format=jpg&name=small",
-        "url": "https://drive.google.com/file/d/1tOCY3EAFUWTDcYQWsJ7gIVr6pXem4dR-/view",
-        "github": "https://github.com/DrunkOnMystery/README_Generator",
-        "description": "A Javascript application designed to automate and streamline the process of creating ReadMe files for projects on Github.",
-        "technologies": "HTML, Javascript"
     },
     {
         "title": "MySQL Employee Tracker",
