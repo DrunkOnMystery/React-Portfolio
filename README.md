@@ -5,6 +5,8 @@
 
 This is a portfolio of my programming career, built with React
 
+<img src="https://hosting.photobucket.com/images/i/DrunkOnMystery/REACTPORTFOLIO.PNG?width=450&height=278&fit=bounds&crop=fill" alt="Home">
+
 ## Table of Contents 
 
 * [Installation](#installation)
