@@ -21,18 +21,7 @@ function BodyPortfolio() {
                             />
                     ))}
                 </div>
-                <div>
-                    <ul>Ben's Programming Skills:
-                    <li>HTML</li>
-                    <li>CSS</li>
-                    <li>Javascript</li>
-                    <li>React</li>
-                    <li>MongoDB</li>
-                    <li>Express</li>
-                    <li>NodeJS</li>
-                    <li>JSX</li>
-                    </ul>
-                </div>
+
             </main>
         </div>
     )
