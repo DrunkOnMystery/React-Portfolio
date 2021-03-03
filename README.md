@@ -3,7 +3,7 @@
 
 ## Description 
 
-This is a portfolio of my programming career, built with React
+This is a portfolio of my programming career, built with React. 
 
 <img src="https://hosting.photobucket.com/images/i/DrunkOnMystery/REACTPORTFOLIO.PNG?width=450&height=278&fit=bounds&crop=fill" alt="Home">
 The portfolio can be found at https://drunkonmystery.github.io/React-Portfolio/.
@@ -15,18 +15,16 @@ The portfolio can be found at https://drunkonmystery.github.io/React-Portfolio/.
 * [Credits](#credits)
 * [License](#license)
 * [Badges](#badges)
-* [Contributing](#contributing)
-* [Tests](#tests)
 
 
 ## Installation
 
-Download the relevant files and install necessary modules
+Clone this repo. You will also need to install Node, Express, and React.
 
 
 ## Usage 
 
-This project is open to all with credit.
+This project is open to use for anyone with attribution.
 
 
 ## Credits
@@ -44,14 +42,6 @@ Copyright (c) 2020 Benjamin Andrew Brumby
 ## Badges
 
 ![Picture of MIT](https://img.shields.io/badge/license-MIT-blue.svg)
-
-## Contributing
-
-
-
-## Tests
-
-
 
 ## Questions
 
