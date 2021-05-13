@@ -21,15 +21,13 @@ function BodyIndex() {
                         src="https://hosting.photobucket.com/images/i/DrunkOnMystery/Ben_and_Nate(1).jpg" />
                     <p class="about-me-text"><strong>Ben is a dedicated, team-oriented professional with experience both working within and leading projects of all scales. A motivated self-starter, Ben is ready to see what the next great challenge in his career will be.
                         <br></br>
-                        Ben lives in Dr. Phillips with his wife, Mandy, their two sons, William and Nathan, and their
-                        dog,
-                        April.</strong></p>
+                        Ben lives in Dr. Phillips with his wife, Mandy, and their two sons, William and Nathan.</strong></p>
                 </div>
             </div>
             <div class="row">
                 <div class="col">
                     <ul class="about-me-text"> <strong>Ben's Programming Skills Include:
-                    <li>HTML</li>
+                        <li>HTML</li>
                         <li>CSS</li>
                         <li>Javascript</li>
                         <li>React</li>
@@ -38,6 +36,7 @@ function BodyIndex() {
                         <li>Express</li>
                         <li>NodeJS</li>
                         <li>JSX</li>
+                        <li>APIs</li>
                         </strong>
                     </ul>
                 </div>
